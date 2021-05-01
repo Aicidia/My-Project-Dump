@@ -1,3 +1,5 @@
+### This is a 3D platformer which randomly generates the number of platforms that you put in. ###
+
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 import random as rng
